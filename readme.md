@@ -1,5 +1,2 @@
-### caption
+### Goldman game
 
-body
-
-[alexr github link](https://github.com/alexr007)
